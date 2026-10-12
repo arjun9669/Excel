@@ -10,7 +10,7 @@ This folder contains real-world Excel dashboards and data analysis projects that
 > Analyze and explore sales data from a retail store to derive meaningful insights using Excel functions, charts, and pivot tables.
 
 ### 📄 Dataset Info
-- File: `Retail_Store_Sales_Excel_Project.xlsx`
+- File: [Sales_Analysis_Project_20 Questions .xlsx](./Sales_Analysis_Project_20%20Questions%20.xlsx)
 - Contains transactional-level sales data including:
   - Customer Name
   - City
@@ -64,7 +64,7 @@ This folder contains real-world Excel dashboards and data analysis projects that
 
 ## 👨‍💻 About Me
 
-I’m **Arjun Kumar**, an aspiring Data Analyst skilled in Excel, SQL, Python, Power BI, and Machine Learning.  
+I’m **Arjun Kumar**, an AI Engineer skilled in Excel, SQL, Python, Power BI, and Machine Learning.  
 This project is part of my growing analytics portfolio where I explore data and turn it into actionable insights.
 
 - 🌐 [Portfolio Website](https://my-data-story.lovable.app)
